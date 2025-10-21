@@ -38,7 +38,7 @@ GITHUB_TOKEN=your_github_personal_access_token_here
 HTTP_TIMEOUT_MS=15000
 
 
-Make sure your GitHub repository and token have permissions to:
+## Make sure your GitHub repository and token have permissions to:
 - Read/write repository contents
 - Create and delete branches
 
