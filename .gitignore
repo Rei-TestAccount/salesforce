@@ -1,0 +1,10 @@
+# Maven
+/target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Env
+.env
